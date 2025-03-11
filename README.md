@@ -1,2 +1,0 @@
-# magang
-magang
